@@ -20,3 +20,10 @@ pip install experta
 pip install tk
 pip install Pillow 
 ```
+
+### cd into the project
+
+```console
+py start.py
+```
+
